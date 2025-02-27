@@ -1,0 +1,9 @@
+{
+	"name": "copydata-adls-input",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae30bd0c-ff72-4fcb-b7a8-06aad1feb21c",
+		"tenantId": "8d281d1d-9c4d-4bf7-b16e-032d15de9f6c"
+	}
+}
